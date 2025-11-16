@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1,Latina Televisión
+http://181.224.226.128:5000/play/a03n/index.m3u8
+
+#EXTINF:-1,América Televisión
+http://209.45.91.205:8000/play/a09t/index.m3u8
+
+#EXTINF:-1,Panamericana Televisión
+http://181.65.169.53:8050/play/a01w/index.m3u8
+
+#EXTINF:-1,TV Perú
+http://179.63.6.12:9000/play/a05q
+
+#EXTINF:-1,ATV
+http://179.63.6.12:9000/play/a02q
+
+#EXTINF:-1,Global Televisión
+http://181.224.226.128:5000/play/a01s/index.m3u8
+
+#EXTINF:-1,ATV+
+http://179.63.6.12:9000/play/a01j
+
+#EXTINF:-1,Willax Televisión
+http://209.45.81.84:8000/play/a038
